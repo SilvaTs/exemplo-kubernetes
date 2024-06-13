@@ -1,4 +1,4 @@
-<img src="diagrama.jpg" />
+<img src="diagrama.jpg" width="100%"/>
 
 ### Por que utilizar o Kubernetes?
  Com os recursos do Kubernetes, você consegue implantar containers em escala para essas cargas de trabalho e assim executar as demandas que são recebidas pelo cluster.
